@@ -4,4 +4,4 @@ Check out the blog [Here](https://medium.com/@singhgursheesh12/custom-spinner-to
 
 ## Screenshots
 
-![End Result]( screenshots/Screenshot_1.png "End Result")
+![End Result]( screenshots/Screenshot_1.gif "End Result")
